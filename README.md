@@ -67,7 +67,7 @@ pip install matplotlib seaborn pandas numpy
 ### Running the Notebook:
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository_url>
+   git clone git@github.com:hfakour/Matplotlib_Tutorial.git
    ```
 2. Open the Jupyter Notebook in your environment:
    ```bash
