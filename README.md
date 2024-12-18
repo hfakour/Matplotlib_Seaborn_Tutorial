@@ -80,23 +80,6 @@ Each section is self-contained and includes clear explanations, sample code, and
 
 ---
 
-## Example Visualizations
-
-### Matplotlib Examples:
-- **Line Plot**:
-  ![Line Plot Example](images/line_plot.png)
-
-- **Subplots with Tight Layout**:
-  ![Subplots Example](images/subplots.png)
-
-### Seaborn Examples:
-- **Correlation Heatmap**:
-  ![Heatmap Example](images/heatmap.png)
-
-- **Pair Plot**:
-  ![Pair Plot Example](images/pairplot.png)
-
----
 
 ## Contributions
 
